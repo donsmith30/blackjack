@@ -1,2 +1,2 @@
 # blackjack
-Practice project based on BlackJack
+Awesome practice project based on BlackJack 
